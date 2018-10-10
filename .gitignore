@@ -1,0 +1,5 @@
+#Ignorar estos archivos:
+*.exe
+*.docx
+*.doc
+*.com
